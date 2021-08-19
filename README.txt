@@ -1,7 +1,8 @@
-# Arduino_para_iniciantes
+Curso com Logo arduino
 
-Título do seu 4noobs
-Imagem da linguagem
+# Arduino para Iniciantes
+
+Arduino logo
 
 
 Explore a documentação »
