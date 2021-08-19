@@ -42,28 +42,20 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 #
 Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.
 
-### **Inicialize o Arduino IDE**
-<img style="display: block;
-                margin-left: auto;
-                margin-right: auto;" src="./../source/1_abrir_ide.png" width=60 height=40></br>
+#
+## **Inicialize o Arduino IDE**
+<img src="./../source/1_abrir_ide.png" width=364 height=489></br>
+</br>
+## **Vá em Arquivo -> Abrir**
+<img src="./../source/2_abrir_programa.png" width=364 height=489></br>
 
-### **Vá em Arquivo -> Abrir**
-<img style="display: block;
-                margin-left: auto;
-                margin-right: auto;" src="./../source/2_abrir_programa.png" width=60 height=40></br>
-
-### **Encontre o Código e o possui comentarios**
-<img style="display: block;
-                margin-left: auto;
-                margin-right: auto;" src="./../source/3_buscar_arquivo.png" width=60 height=40></br>
-
-<img style="display: block;
-                margin-left: auto;
-                margin-right: auto;" src="./../source/4_buscar_arquivo.png" width=60 height=40></br>
-
-<img style="display: block;
-                margin-left: auto;
-                margin-right: auto;" src="./../source/5_buscar_arquivo.png" width=60 height=40></br>
+## **Encontre o Código Hello World Comentado**
+<img src="./../source/3_buscar_arquivo.png" width=485 height=342></br>
+</br>
+<img src="./../source/4_buscar_arquivo.png" width=485 height=342></br>
+</br>
+<img src="./../source/5_buscar_arquivo.png" width=485 height=342></br>
+</br>
 
 
 
@@ -71,6 +63,5 @@ Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivale
 
 
 
-
-<a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a>
+</br></br><a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a>
  
