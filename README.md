@@ -8,7 +8,9 @@ Curso com Logo arduino
 Arduino logo
 </br></br>
 
-**Explore a documentação** » https://www.arduino.cc/reference/pt/
+**Explore a documentação ->** 
+<a href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>
+
 </br></br>
 
 Sobre o Projeto
