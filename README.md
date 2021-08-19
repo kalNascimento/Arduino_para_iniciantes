@@ -1,7 +1,7 @@
 Curso com Logo arduino
 
 </br>
-<h1> Arduino para Iniciantes </h1>
+<h1 style="color:#62AEB2"> Arduino para Iniciantes </h1>
 </br>
 
 
@@ -9,18 +9,19 @@ Arduino logo
 </br></br>
 
 **Explore a documentação ->** 
-<a href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>
+**<a style="color:#E5AD24" href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>**
 
 </br></br>
 
-Sobre o Projeto
+<h2 style="color:#E47128"> Sobre o Projeto </h2>
+</br>
 
-Um tutorial simples para aqueles que estão começando ou querem começar a programar *Arduino*.
+<h4> Um tutorial simples para aqueles que estão começando ou querem começar a programar *Arduino*.</h4>
 </br></br>
 
-0 - <a href="./0 - Introdução">Introdução</a>
+**0 - <a style="color:#E5AD24" href="./0 - Introdução">Introdução</a>**
 
-1 - <a href="./1 - Hello World">Hello World</a>
+**1 - <a style="color:#E5AD24" href="./1 - Hello World">Hello World</a>**
 
-</br></br>
-<h4>Kalebe S. Nascimento - @kalNascimento</h4>
+</br></br></br></br>
+Kalebe S. Nascimento - <a style="color:#E5AD24" href="github.com/kalNascimento">@kalNascimento</a>
