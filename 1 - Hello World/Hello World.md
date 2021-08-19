@@ -50,7 +50,7 @@ Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivale
 ### **Vá em Arquivo -> Abrir**
 <img style="display: block;
                 margin-left: auto;
-                margin-right: auto;" src="./../source/3_buscar_arquivo.png" width=60 height=40></br>
+                margin-right: auto;" src="./../source/2_abrir_programa.png" width=60 height=40></br>
 
 ### **Encontre o Código e o possui comentarios**
 <img style="display: block;
