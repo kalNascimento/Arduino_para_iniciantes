@@ -19,25 +19,35 @@ Para fazer um programa p/ o Arduino e testa-lo precisaremos da Arduino IDE e do 
 <a href="https://www.google.com/amp/s/www.blogdarobotica.com/2020/03/21/instalando-driver-serial-para-arduinos-com-chip-ch340/amp/"> Driver CH340 </a></br></br>
 
 #
-
 <b><h3> O que é um Arduino </h2></b>
 
 Arduino é uma plataforma de prototipagem criada com o objetivo de facilitar o ensino de programação e eletrônica p/ jovens. Pela facilidade foi adotado pela comunidade do “faça você mesmo”.
 (Foto do Arduino)
 Ele possuí um conector P4 para alimentação, podendo receber até no máximo 9V e no mínimo 5V; Um conector USB tipo B por onde o Arduino é gravado; e os conectores de barra que são por onde acessamos as entradas e saída do Arduino.
 
+<img src="./../source/arduino.png" width=349 height=285></br>
+</br></br>
+
+#
 <b><h3> O que é uma Protoboard </b></h3>
 
 Protoboard ou placa de ensaio é uma placa com orifício utilizada para montar circuitos eletrônicos.
 (Foto com o esquema de ligação)
 As orifícios em linha estão conectados, as colunas não.
 
+<img src="./../source/protoboard.png" width=213 height=313></br>
+</br></br>
+
+#
 <b><h3> O que é um Resistor </b></h3>
 
 <p>O resistor é um dos componentes mais básicos da eletrônica e sua função é resistir a passagem de energia transformando eletricidade em energia térmica.
 Os valores de resistência são determinados pelas listras coloridas em seu corpo, cada linha tem um valor e esse valor pode ser encontrado na tabela.
 O que é um #Led
-O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p></br></br>
+O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p>
+
+<img src="./../source/resistor.png" width=269 height=110></br>
+</br></br></br>
 
 #
 Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.
