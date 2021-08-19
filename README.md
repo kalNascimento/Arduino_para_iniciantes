@@ -7,36 +7,18 @@ Curso com Logo arduino
 
 Arduino logo
 
-
+</br>
 **Explore a documentação** » https://www.arduino.cc/reference/pt/
-
+</br></br>
 
 Sobre o Projeto
 
-Um tutorial simples para aquel
+Um tutorial simples para aqueles que estão começando ou querem começar a programar *Arduino*.
+</br></br>
 
-    Conteúdo 1
-    Conteúdo 2
-    Conteúdo 3
-        Sub-conteúdo
-            Sub-conteúdo
-        Sub-conteúdo
-    Conteúdo 4
-    Conteúdo 5
-        Sub-conteúdo
-        Sub-conteúdo
+0 - <a href="./0 - Introdução">Introdução</a>
 
-Como Contribuir
+1 - <a href="./1 - Hello World">Hello World</a>
 
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas
-
-    Realize um Fork do projeto
-    Crie um branch com a nova feature (git checkout -b feature/featureBraba)
-    Realize o Commit (git commit -m 'Adicionado conteudo brabo')
-    Realize o Push no Branch (git push origin feature/featureBraba)
-    Abra um Pull Request
-
-Autores
-
-    Nome Completo - Especialidade - @nickname
-
+</br></br>
+<h4>Kalebe S. Nascimento - @kalNascimento</h4>
