@@ -24,4 +24,4 @@ Arduino logo
 **1 - <a style="color:#E5AD24" href="./1 - Hello World">Hello World</a>**
 
 </br></br></br></br>
-Kalebe S. Nascimento - <a style="color:#E5AD24" href="github.com/kalNascimento">@kalNascimento</a>
+Kalebe S. Nascimento - <a style="color:#E5AD24" href="https://github.com/kalNascimento">@kalNascimento</a>
