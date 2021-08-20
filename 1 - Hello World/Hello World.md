@@ -105,7 +105,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <p align="center"> Você vera essa tela</p>
 </br>
 <p align="center">
-<img src="./Hello_World/../../source/hello_world/9_circuito_tinkercad.png" width=1342 height=625></p></br></br>
+<img src="./Hello_World/../../source/hello_world/9_circuito_tinkercad.png" width=1342 height=575></p></br></br>
 
 <p align="center"> No canto superior esquerdo click em <b>Blocos</b> ele abrira um onde você escolherá a opção <b>Texto</b></p>
 </br>
