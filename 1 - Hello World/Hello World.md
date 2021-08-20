@@ -24,9 +24,8 @@ Para fazer um programa p/ o Arduino e testa-lo precisaremos da Arduino IDE e do 
 Arduino é uma plataforma de prototipagem criada com o objetivo de facilitar o ensino de programação e eletrônica p/ jovens. Pela facilidade foi adotado pela comunidade do “faça você mesmo”.
 (Foto do Arduino)
 Ele possuí um conector P4 para alimentação, podendo receber até no máximo 9V e no mínimo 5V; Um conector USB tipo B por onde o Arduino é gravado; e os conectores de barra que são por onde acessamos as entradas e saída do Arduino.
-
-<img src="./../source/hello_world/arduino.png" width=349 height=285></br>
-</br></br>
+<p align="center">
+<img src="./../source/hello_world/arduino.png" width=349 height=285></p></br></br></br>
 
 #
 <b><h3> O que é uma Protoboard </b></h3>
@@ -35,8 +34,8 @@ Protoboard ou placa de ensaio é uma placa com orifício utilizada para montar c
 (Foto com o esquema de ligação)
 As orifícios em linha estão conectados, as colunas não.
 
-<img src="./../source/hello_world/protoboard.png" width=213 height=313></br>
-</br></br>
+<p align="center">
+<img src="./../source/hello_world/protoboard.png" width=213 height=313></p></br></br></br>
 
 #
 <b><h3> O que é um Resistor </b></h3>
@@ -46,8 +45,8 @@ Os valores de resistência são determinados pelas listras coloridas em seu corp
 O que é um #Led
 O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p>
 
-<img src="./../source/hello_world/resistor.png" width=269 height=110></br>
-</br></br></br>
+<p align="center">
+<img src="./../source/hello_world/resistor.png" width=269 height=110><p/></br></br></br></br>
 
 #
 Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.
