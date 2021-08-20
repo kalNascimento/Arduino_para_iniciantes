@@ -49,7 +49,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <img src="./../source/hello_world/resistor.png" width=269 height=110><p/></br></br></br></br>
 
 #
-Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.
+<p align="center"> Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.</p>
 
 #
 ## **Inicialize o Arduino IDE**
@@ -65,9 +65,6 @@ Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivale
 </br>
 <img src="./../source/hello_world/5_buscar_arquivo.png" width=485 height=342></br>
 </br>
-
-
-
 
 
 
