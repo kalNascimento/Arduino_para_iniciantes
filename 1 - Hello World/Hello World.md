@@ -61,7 +61,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <img src="./../source/hello_world/2_abrir_programa.png" width=364 height=489></p></br></br>
 
 
-<h2 align="center"> <b> Encontre o Código Hello World Comentado </b><h2>
+<h2 align="center"> <b> Encontre o Código Hello World Comentado dentro dos arquivos da aula </b><h2>
 <p align="center">
 <img src="./../source/hello_world/3_buscar_arquivo.png" width=485 height=342></p></br></br>
 
