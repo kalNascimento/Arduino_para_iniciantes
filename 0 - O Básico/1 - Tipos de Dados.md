@@ -18,5 +18,7 @@ Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis
 *Byte* - É um conjunto de 8btis.
 
 </br></br></br>
-**0 - <a href="https://github.com/kalNascimento/Arduino_para_iniciantes">Inicio</a>**
 
+<p align="center">
+<a href="https://github.com/kalNascimento/Arduino_para_iniciantes">Inicio</a>**
+</p>
