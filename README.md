@@ -20,7 +20,7 @@
 <h4> Um tutorial simples para aqueles que estão começando ou querem começar a programar <b>Arduino</b>.</h4>
 </br></br>
 
-**0 - <a href="./0 - Introdução">Introdução</a>**
+**0 - <a href="./0 - O Básico">Introdução</a>**
 
 **1 - <a href="./1 - Hello World">Hello World</a>**
 
