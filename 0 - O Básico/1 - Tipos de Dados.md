@@ -20,5 +20,5 @@ Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis
 </br></br></br>
 
 <p align="center">
-<a href="https://github.com/kalNascimento/Arduino_para_iniciantes">Inicio</a>**
+<a href="https://github.com/kalNascimento/Arduino_para_iniciantes">Inicio</a>
 </p>
