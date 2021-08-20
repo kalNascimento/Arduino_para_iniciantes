@@ -1,4 +1,4 @@
-<p align="center"> <b><h2> Criando seu primeiro programa para Arduino </h1></b></br></p>
+<h2 align="center"> <b>Criando seu primeiro programa para Arduino </b></h1></br>
 
 #
 
