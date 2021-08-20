@@ -60,23 +60,19 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 <p align="center"> Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.</p>
 
-#
 <h2 align="center"> <b> Inicialize o Arduino IDE </b></h2>
 
-#
 <p align="center">
 <img src="./../source/hello_world/1_abrir_ide.png" width=364 height=489></p></br>
 
 <h2 align="center"> <b> Vá em Arquivo -> Abrir </b></h2>
 
-#
 <p align="center">
 <img src="./../source/hello_world/2_abrir_programa.png" width=364 height=489></p></br></br>
 
 
 <h2 align="center"> <b> Encontre o Código Hello World Comentado dentro dos arquivos da aula </b></h2>
 
-#
 <p align="center">
 <img src="./../source/hello_world/3_buscar_arquivo.png" width=485 height=342></p></br></br>
 
@@ -89,11 +85,9 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 <h2 align="center"> <b> Esse código aparecerá no seu Arduino IDE </b></h2>
 
-#
 <p align="center">
 <img src="./../source/hello_world/6_programa_aberto.png" width=488 height=680></p></br></br>
 
-#
 <h2 align="center"> <b> Agora vamos para o circuito onde testaremos o código </b></h2>
 
 <p align="center"> Ao clickar no link do <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad e para poder utilizar o circuito pronto precisará de uma conta no tinkercad </p>
