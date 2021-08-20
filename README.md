@@ -2,7 +2,7 @@
 <img src="./source/readme/arduino_header.png" width=900   height=270> 
 </p>
 
-<h1 style="text-align:center"> Arduino para Iniciantes </h1>
+<h1 align="center"> Arduino para Iniciantes </h1>
 
 <p align="center">
 <img src="./source/readme/arduino_logo.png" width=390   height=290> 
@@ -10,11 +10,9 @@
 
 
 
-
-**Explore a documentação ->** 
-**<a href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>**
-
-</br></br>
+<p align="center"><b>Explore a documentação -></b>
+<a href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>
+</p></br></br>
 
 <h2> Sobre o Projeto </h2>
 </br>
