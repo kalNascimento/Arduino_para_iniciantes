@@ -1,4 +1,5 @@
-<img style= "margin-left: auto;
+<img style= "display:block;
+            margin-left: auto;
             margin-right: auto" 
 src="./source/readme/arduino_header.png" width=900   height=270> 
 
@@ -7,7 +8,8 @@ src="./source/readme/arduino_header.png" width=900   height=270>
 
 
 
-<img style= "margin-left: auto;
+<img style= "display:block;
+            margin-left: auto;
             margin-right: auto" 
 src="./source/readme/arduino_logo.png" width=390   height=290> 
 
