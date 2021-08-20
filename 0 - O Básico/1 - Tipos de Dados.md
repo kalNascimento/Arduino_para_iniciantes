@@ -1,7 +1,7 @@
 # Tipos de dados
 </br>
 
-Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis mais basicas quando se programa um arduino são:**Boolean, Char, Int**.
+Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis mais basicas quando se programa um arduino são: **Boolean, Char, Int**.
 
 **Boolean:** Tipo que só assume dois valores *True* ou *False*.
 
