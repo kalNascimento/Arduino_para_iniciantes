@@ -123,7 +123,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <p align="center"> Click em <b>Iniciar simulação</b> e pronto você verá os leds acendendo e apagando igual no seu código</p>
 </br>
 <p align="center">
-<img src="./../source/hello_world/13_circuito_tinkercad.png" width=1610 height=788></p></br></br>
+<img src="./../source/hello_world/13_circuito_tinkercad.png" width=698 height=248></p></br></br>
 
 <p align="center"> Faça alterações no código mudando os tempos do delay ou qual led vai ser aceso primeiro</p>
 
