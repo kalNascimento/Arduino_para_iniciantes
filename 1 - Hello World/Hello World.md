@@ -5,7 +5,7 @@
 <b><h2> Material: </h2></b>
 
 <p> Um Arduino, cabo USB do Arduino, protoboard, resistor 150ohns, led de qualquer cor.
-Para fazer um programa p/ o Arduino e testa-lo precisaremos da Arduino IDE e do simulador de Arduino <b>TinkerCad</b>. </br> No caso de Arduinos paralelos precisa instalar um driver chamado CH340 </p>
+Para fazer um programa p/ o Arduino e testa-lo precisaremos da <b>Arduino IDE</b> e do simulador de Arduino <b>TinkerCad</b>. </br> No caso de Arduinos paralelos precisa instalar um driver chamado CH340 </p>
 </br>
 
 #
@@ -58,9 +58,9 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <h1 align="center"> <b>  Iniciando</b> </h1>
 
 
-<p align="center"> Após a instalação do Arduino IDE e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.</p>
+<p align="center"> Após a instalação do <b>Arduino IDE</b> e do driver CH340 podemos iniciar o equivalente ao “hello world” do Arduino, o programa Blink.</p>
 
-<h2 align="center"> <b> Inicialize o Arduino IDE </b></h2>
+<h2 align="center"> <b> Inicialize o <b>Arduino IDE</b> </b></h2>
 
 <p align="center">
 <img src="./../source/hello_world/1_abrir_ide.png" width=364 height=489></p></br>
