@@ -1,8 +1,6 @@
-<img style= "display:block;
-            margin-left: auto;
-            margin-right: auto" 
-src="./source/readme/arduino_header.png" width=900   height=270> 
-
+<p align="center">
+<img src="./source/readme/arduino_header.png" width=900   height=270> 
+</p>
 
 <h1 style="text-align:center"> Arduino para Iniciantes </h1>
 
