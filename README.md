@@ -1,11 +1,11 @@
 <p align="center">
-<img src="./source/readme/arduino_header.png" width=900   height=270> 
+<img src="./source/readme/arduino_header.png" width=700   height=210> 
 </p>
 
 <h1 align="center"> Arduino para Iniciantes </h1>
 
 <p align="center">
-<img src="./source/readme/arduino_logo.png" width=390   height=290> 
+<img src="./source/readme/arduino_logo.png" width=273   height=203> 
 </p>
 
 
