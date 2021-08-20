@@ -17,5 +17,5 @@ Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis
 
 *Byte* - É um conjunto de 8btis.
 
-**0 - <a href="./">Introdução</a>**
+**0 - <a href="./..">Introdução</a>**
 
