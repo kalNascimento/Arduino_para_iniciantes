@@ -92,4 +92,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 <p align="center"> Ao clickar no link do <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad e para poder utilizar o circuito pronto precisará de uma conta no tinkercad </p>
 
+<p align="center">
+<img src="./../source/hello_world/7_tinkercad.png" width=1038 height=523></p></br></br>
+
  
