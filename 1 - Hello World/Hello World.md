@@ -90,9 +90,41 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 <h2 align="center"> <b> Agora vamos para o circuito onde testaremos o código </b></h2>
 
-<p align="center"> Ao clickar no link do <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad e para poder utilizar o circuito pronto precisará de uma conta no tinkercad </p>
+<p align="center"> Crie um conta no <b>Tinkercad</b> e quando clickar no link do  <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad. </p></br>
 
 <p align="center">
 <img src="./../source/hello_world/7_tinkercad.png" width=1038 height=523></p></br></br>
 
- 
+
+<p align="center"> Quando a pagina carregar, no canto esquedo aparece para <b> Copiar e usar </b>, clickando ai ele vai redirecionar para a página do circuito.</p>
+</br>
+<p align="center">
+<img src="./../source/hello_world/8_oq%20fazer_tinkercad.png" width=498 height=311></p></br></br>
+
+
+<p align="center"> Você vera essa tela</p>
+</br>
+<p align="center">
+<img src="./Hello_World/../../source/hello_world/9_circuito_tinkercad.png" width=498 height=311></p></br></br>
+
+<p align="center"> No canto superior esquerdo click em <b>Blocos</b> ele abrira um onde você escolherá a opção <b>Texto</b></p>
+</br>
+<p align="center">
+<img src="./Hello_World/../../source/hello_world/10_circuito_tinkercad.png" width=498 height=311></p></br></br>
+<img src="./Hello_World/../../source/hello_world/11_circuito_tinkercad.png" width=498 height=311></p></br></br>
+
+<p align="center"> Apague o código que está escrito, vá ao <b>Arduino IDE</b> e copie o código que você abriu anteriormente e cole no lugar onde estava o que vc apagou</p>
+</br>
+<p align="center">
+<img src="./../source/hello_world/12_circuito_tinkercad.png" width=498 height=311></p>
+<p align="center"> Ficará assim</p></br></br>
+
+<p align="center"> Click em <b>Iniciar simulação</b> e pronto você verá os leds acendendo e apagando igual no seu código</p>
+</br>
+<p align="center">
+<img src="./../source/hello_world/13_circuito_tinkercad.png" width=498 height=311></p></br></br>
+
+<p align="center"> Faça alterações no código mudando os tempos do delay ou qual led vai ser aceso primeiro</p>
+
+
+
