@@ -16,3 +16,6 @@ Uma variavel é um espaço na memoria destinado a um dado, os tipos de variaveis
 *Bit* - Menos unidade de informação que pode ser lida ou armazenada.
 
 *Byte* - É um conjunto de 8btis.
+
+**0 - <a href="./">Introdução</a>**
+
