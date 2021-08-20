@@ -53,18 +53,23 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 #
 ## **Inicialize o Arduino IDE**
-<img src="./../source/hello_world/1_abrir_ide.png" width=364 height=489></br>
-</br>
+<p align="center">
+<img src="./../source/hello_world/1_abrir_ide.png" width=364 height=489></p></br>
+
 ## **Vá em Arquivo -> Abrir**
-<img src="./../source/hello_world/2_abrir_programa.png" width=364 height=489></br>
+<p align="center">
+<img src="./../source/hello_world/2_abrir_programa.png" width=364 height=489></p></br></br>
+
 
 ## **Encontre o Código Hello World Comentado**
-<img src="./../source/hello_world/3_buscar_arquivo.png" width=485 height=342></br>
-</br>
-<img src="./../source/hello_world/4_buscar_arquivo.png" width=485 height=342></br>
-</br>
-<img src="./../source/hello_world/5_buscar_arquivo.png" width=485 height=342></br>
-</br>
+<p align="center">
+<img src="./../source/hello_world/3_buscar_arquivo.png" width=485 height=342></p></br></br>
+
+<p align="center">
+<img src="./../source/hello_world/4_buscar_arquivo.png" width=485 height=342></p></br></br>
+
+<p align="center">
+<img src="./../source/hello_world/5_buscar_arquivo.png" width=485 height=342></p></br></br>
 
 
 
