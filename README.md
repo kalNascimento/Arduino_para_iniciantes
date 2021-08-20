@@ -1,12 +1,14 @@
-<img src="./source/readme/arduino_header.png" width=1000     height=300>
+<div style="text-align: center">
+<img src="./source/readme/arduino_header.png" width=1000   height=300> 
+</div>
 
-</br>
-<h1> Arduino para Iniciantes </h1>
-</br>
+<h1 style="text-align:center"> Arduino para Iniciantes </h1>
 
 
-Arduino logo
-</br></br>
+<div style="text-align: center">
+<img src="./source/readme/arduino_logo.png" width=390   height=290> 
+</div>
+
 
 **Explore a documentação ->** 
 **<a href="https://www.arduino.cc/reference/pt/">Arduino Documentação</a>**
