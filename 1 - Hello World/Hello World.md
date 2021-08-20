@@ -111,6 +111,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 </br>
 <p align="center">
 <img src="./Hello_World/../../source/hello_world/10_circuito_tinkercad.png" width=498 height=311></p></br></br>
+<p align="center">
 <img src="./Hello_World/../../source/hello_world/11_circuito_tinkercad.png" width=498 height=311></p></br></br>
 
 <p align="center"> Apague o código que está escrito, vá ao <b>Arduino IDE</b> e copie o código que você abriu anteriormente e cole no lugar onde estava o que vc apagou</p>
