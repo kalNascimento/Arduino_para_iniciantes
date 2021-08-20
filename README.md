@@ -1,4 +1,4 @@
-Curso com Logo arduino
+<img src="./source/readme/arduino_header.png" width=1000     height=300>
 
 </br>
 <h1> Arduino para Iniciantes </h1>
