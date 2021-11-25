@@ -47,7 +47,7 @@ As orifícios em linha estão conectados, as colunas não.
 #
 
 <p>O resistor é um dos componentes mais básicos da eletrônica e sua função é resistir a passagem de energia transformando eletricidade em energia térmica.
-Os valores de **resistência** são determinados pelas listras coloridas em seu corpo, cada linha tem um valor e esse valor pode ser encontrado na tabela.
+Os valores de resistência são determinados pelas listras coloridas em seu corpo, cada linha tem um valor e esse valor pode ser encontrado na tabela.
 O que é um #Led
 O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p>
 
