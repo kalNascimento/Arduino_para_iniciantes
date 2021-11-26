@@ -34,9 +34,9 @@ Ele possuí um conector P4 para alimentação, podendo receber até no máximo 9
 
 #
 
-Protoboard ou placa de ensaio é uma placa com orifício utilizada para montar circuitos eletrônicos.
+<p>Protoboard ou placa de ensaio é uma placa com orifício utilizada para montar circuitos eletrônicos.
 (Foto com o esquema de ligação)
-As orifícios em linha estão conectados, as colunas não.
+As orifícios em linha estão conectados, as colunas não.</p>
 
 <p align="center">
 <img src="./../source/hello_world/protoboard.png" width=213 height=313></p></br></br>

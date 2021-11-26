@@ -1,30 +1,33 @@
 <h1 align="center"> <b>Entradas e saídas digitais</b></h1></br>
 
-Pinos digitais
+<h2 align="center"> <b> Pinos digitais</b></h2>
 
-Dos tres barramentos do Arduino Uno 22 pinos podem ser configurados para funcionar como entradas ou saídas analogicas ( I/O - Input / Output ).
-Os pinos podem ser identificados na imagem a seguir.
+<p align="center">Dos tres barramentos do Arduino Uno 22 pinos podem ser configurados para funcionar como entradas ou saídas analogicas (I/O - Input / Output).
+Os pinos podem ser identificados na imagem a seguir.</p>
 
-<img src="./souce/../../source/entradas_e_saidas_digitais/arduino_uno_pinout.png" alt="https://content.arduino.cc/assets/Pinout-UNOrev3_latest.png">
+<p align="center">
+<img src="./souce/../../source/entradas_e_saidas_digitais/arduino_uno_pinout.png" alt="https://content.arduino.cc/assets/Pinout-UNOrev3_latest.png"></p></br>
 
-Então antes de usa-los no programa esses pinos precisam ser configurados como entrada ou saida, para isso usamos a função **pinMode(Pino, Modo)**, onde o pino será o pino de desejamos, podendo ser usados valores referentes ao pino (ex: 2 , 11) ou o nome atribuido ao pino.
-São 3 modos disponiveis para configurar os pinos, **INPUT, OUTPUT E INPUT_PULLUP**.
-<b>INPUT:</b> Usado para setar o pino como entrada
-<b>OUTPUT:</b> Usado para setar o pino como saída
-<b>INPUT_PULLUP:</b> Usado para setar o pino como entrada com pullup interno.
+<p>Então antes de usa-los no programa esses pinos precisam ser configurados como entrada ou saida, para isso usamos a função **pinMode(Pino, Modo)**, onde o pino será o pino de desejamos, podendo ser usados valores referentes ao pino (ex: 2 , 11) ou o nome atribuido ao pino.
+São 3 modos disponiveis para configurar os pinos, **INPUT, OUTPUT E INPUT_PULLUP**.<p></br>
+<p><b>INPUT:</b> Usado para setar o pino como entrada</p>
+<p><b>OUTPUT:</b> Usado para setar o pino como saída</p>
+<p><b>INPUT_PULLUP:</b> Usado para setar o pino como entrada com pullup interno.</p></br>
 
-<b>EX:  pinMode(2, INPUT)</b>
-<b>     PinMode(led1, OUTPUT)</b>
-<b>     PinMode(led1, INPUT_PULLUP)</b>
+<p><b>EX:  </b></p>
+<p><b>     pinMode(2, INPUT)</b>
+<p><b>     PinMode(led1, OUTPUT)</b>
+<p><b>     PinMode(led1, INPUT_PULLUP)</b></br></br>
 
-Após a configurar o pinMode(), o Arduino ao inicializar saberá que aquele pino é uma entrada ou saída.
+<p>Após a configurar o pinMode(), o Arduino ao inicializar saberá que aquele pino é uma entrada ou saída.</P>
 
-Para usar as I/O digitais usamos a função digitalWrite ou digitalRead. A **digitalWrite(pino, Valor)** usamos para saidas digitais e a **digitalRead(pino, Valor)** para entradas digitais.
+<p>Para usar as I/O digitais usamos a função digitalWrite ou digitalRead. A **digitalWrite(pino, Valor)** usamos para saidas digitais e a **digitalRead(pino, Valor)** para entradas digitais.</P></br>
 
-<b>EX:  digitalWrite(2, HIGH)</b>
-<b>     digitalRead(led1, LOW)</b>
+<p><b>EX:  </p></b>
+<p><b>digitalWrite(2, HIGH)</p></b>
+<p><b>     digitalRead(led1, LOW)</p></b></br>
 
-Onde HIGH é nivel lógico alto (5V) e LOW é nivel logico baixo (0V)
+<p>nde HIGH é nivel lógico alto (5V) e LOW é nivel logico baixo (0V)</p>
 
 <h1 align="center"> <b>  Exemplo aplicado </b> </h1>
 
@@ -48,3 +51,6 @@ Onde HIGH é nivel lógico alto (5V) e LOW é nivel logico baixo (0V)
 
 Primeiro começaremos demonstrando o funcionamento para utilizar uma saída digital do **Arduino**.
 
+circuito saida digital 951x591
+circuito entrada digital 970x538
+circuito entrada pullup digital
