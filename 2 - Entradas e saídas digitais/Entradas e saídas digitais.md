@@ -51,11 +51,17 @@ São 3 modos disponiveis para configurar os pinos, <b>INPUT, OUTPUT E INPUT_PULL
 
 <h2 align="center"><b> Iniciando... </b></h2><br>
 
-<p>Primeiro começaremos demonstrando o funcionamento para utilizar uma saída digital do <b>Arduino<b>.</p><br>
+<p>Primeiro começaremos demonstrando o funcionamento para utilizar uma saída digital do <b>Arduino</b>.</p>
 
+<p> Segue abaixo o esquema de ligação para testar o código.</p><br>
 
 <p align="center">
-<img src="./../source/entradas_e_saidas_digitais/circuito_saida_digital.png"></p></br>
+<img src="./../source/entradas_e_saidas_digitais/circuito_saida_digital.png"></p>
+<p align="center"> Acesse o <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> por aqui. </p></br>
+
+<p>Nele temos o <b>Arduino</b> alimentando o GND da protoboard e o pino 2 do arduino indo para o resitor que está ligado ao LED vermelho.</p>
+
+
 circuito saida digital 951x591
 circuito entrada digital 970x538
 circuito entrada pullup digital
