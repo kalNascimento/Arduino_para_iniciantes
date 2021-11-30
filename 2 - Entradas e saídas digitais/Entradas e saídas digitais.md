@@ -6,7 +6,7 @@
 Os pinos podem ser identificados na imagem a seguir.</p>
 
 <p align="center">
-<img src="./souce/../../source/entradas_e_saidas_digitais/arduino_uno_pinout.png" alt="https://content.arduino.cc/assets/Pinout-UNOrev3_latest.png"></p></br>
+<img src="./../source/entradas_e_saidas_digitais/1_arduino_uno_pinout.png" alt="https://content.arduino.cc/assets/Pinout-UNOrev3_latest.png"></p></br>
 
 <p>Então antes de usa-los no programa esses pinos precisam ser configurados como entrada ou saida, para isso usamos a função <b>pinMode(Pino, Modo)</b>, onde o pino será o pino de desejamos, podendo ser usados valores referentes ao pino (ex: 2 , 11) ou o nome atribuido ao pino.
 São 3 modos disponiveis para configurar os pinos, <b>INPUT, OUTPUT E INPUT_PULLUP</b>.<p></br>
@@ -56,12 +56,13 @@ São 3 modos disponiveis para configurar os pinos, <b>INPUT, OUTPUT E INPUT_PULL
 <p> Segue abaixo o esquema de ligação para testar o código.</p><br>
 
 <p align="center">
-<img src="./../source/entradas_e_saidas_digitais/circuito_saida_digital.png"></p>
-<p align="center"> Acesse o <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> por aqui. </p></br>
+<img src="./../source/entradas_e_saidas_digitais/2_circuito_saida_digital.png"></p>
+<p align="center"> Acesse o <a href="https://www.tinkercad.com/things/1qmivuHSA8c "> Circuito no Tinkercad </a> por aqui. </p></br>
 
 <p>Nele temos o <b>Arduino</b> alimentando o GND da protoboard e o pino 2 do arduino indo para o resitor que está ligado ao LED vermelho.</p>
 
-
+<p> Abaixo temos o código para ser usado com o circuito do Tinkercad</p>
+<img src="./../source/entradas_e_saidas_digitais/3_codigo_saidas_digitais.png"></p>
 circuito saida digital 951x591
 circuito entrada digital 970x538
 circuito entrada pullup digital
