@@ -1,32 +1,32 @@
-<h1 align="center"> <b>Criando seu primeiro programa para Arduino </b></h1></br>
+<h1 Align="center"> <b>Criando seu primeiro programa para Arduíno </b></h1></br>
 
 #
 
 <b><h2> Material: </h2></b>
 
-<p> Um Arduino, cabo USB do Arduino, protoboard, resistor 150ohns, led de qualquer cor.
-Para fazer um programa p/ o Arduino e testa-lo precisaremos da <b>Arduino IDE</b> e do simulador de Arduino <b>TinkerCad</b>. </br> No caso de Arduinos paralelos precisa instalar um driver chamado CH340 </p>
+<p> Um Arduíno, cabo USB do Arduíno, protoboard, resistor 150ohms, led de qualquer cor.
+Para fazer um programa p/ o Arduíno e testa-lo precisaremos da <b>Arduíno IDE</b> e do simulador de Arduíno <b>TinkerCad</b>. </br> No caso de Arduíno paralelos precisa instalar um driver chamado CH340 </p>
 </br>
 
 #
 
 <b><h2> Downloads </h3></b>
 
-<a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
+<a href="https://www.arduino.cc/en/software"> Arduíno IDE </a>
 
 <a href="https://www.tinkercad.com"> TinkerCad </a></b>
 
 <a href="https://www.google.com/amp/s/www.blogdarobotica.com/2020/03/21/instalando-driver-serial-para-arduinos-com-chip-ch340/amp/"> Driver CH340 </a></br></br>
 
 #
-<b><h3> O que é um Arduino </h2></b>
+<b><h3> O que é um Arduíno </h2></b>
 
 #
 
-Arduino é uma plataforma de prototipagem criada com o objetivo de facilitar o ensino de programação e eletrônica p/ jovens. Pela facilidade foi adotado pela comunidade do “faça você mesmo”.
-(Foto do Arduino)
-Ele possuí um conector P4 para alimentação, podendo receber até no máximo 9V e no mínimo 5V; Um conector USB tipo B por onde o Arduino é gravado; e os conectores de barra que são por onde acessamos as entradas e saída do Arduino.
-<p align="center">
+Arduíno é uma plataforma de prototipagem criada com o objetivo de facilitar o ensino de programação e eletrônica p/ jovens. Pela facilidade foi adotado pela comunidade do “faça você mesmo”.
+(Foto do Arduíno)
+Ele possuí um conector P4 para alimentação, podendo receber até no máximo 9V e no mínimo 5V; Um conector USB tipo B por onde o Arduíno é gravado; e os conectores de barra que são por onde acessamos as entradas e saída do Arduíno.
+<p Align="center">
 <img src="./../source/hello_world/arduino.png" width=349 height=285></p></br></br>
 
 #
@@ -49,7 +49,7 @@ As orifícios em linha estão conectados, as colunas não.</p>
 <p>O resistor é um dos componentes mais básicos da eletrônica e sua função é resistir a passagem de energia transformando eletricidade em energia térmica.
 Os valores de resistência são determinados pelas listras coloridas em seu corpo, cada linha tem um valor e esse valor pode ser encontrado na tabela.
 O que é um #Led
-O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p>
+O led, sigla p/ light emitting diode, ou diodo emissor de luz é um componente eletrônico que em resumo emite luz quando atravessado pela energia elétrica.</p>
 
 <p align="center">
 <img src="./../source/hello_world/resistor.png" width=269 height=110><p/></br></br>
@@ -90,13 +90,13 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 
 <h2 align="center"> <b> Agora vamos para o circuito onde testaremos o código </b></h2>
 
-<p align="center"> Crie um conta no <b>Tinkercad</b> e quando clickar no link do  <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad. </p></br>
+<p align="center"> Crie um conta no <b>Tinkercad</b> e quando *clickar* no link do  <a href="https://www.tinkercad.com/things/aVVz9ZVGPe6"> Circuito no Tinkercad </a> você será direcionado a uma pagina no tinkercad. </p></br>
 
 <p align="center">
 <img src="./../source/hello_world/7_tinkercad.png" width=1038 height=523></p></br></br>
 
 
-<p align="center"> Quando a pagina carregar, no canto esquedo aparece para <b> Copiar e usar </b>, clickando ai ele vai redirecionar para a página do circuito.</p>
+<p align="center"> Quando a pagina carregar, no canto esquerdo aparece para <b> Copiar e usar </b>, *clickando* ai ele vai redirecionar para a página do circuito.</p>
 </br>
 <p align="center">
 <img src="./../source/hello_world/8_oq%20fazer_tinkercad.png" width=498 height=311></p></br></br>
@@ -120,7 +120,7 @@ O led, sigla p/ light emmiting diode, ou diodo emissor de luz é um componente e
 <img src="./../source/hello_world/12_circuito_tinkercad.png" width=1127 height=551></p>
 <p align="center"> Ficará assim</p></br></br>
 
-<p align="center"> Click em <b>Iniciar simulação</b> e pronto você verá os leds acendendo e apagando igual no seu código</p>
+<p align="center"> Click em <b>Iniciar simulação</b> e pronto você verá os LEDs acendendo e apagando igual no seu código</p>
 </br>
 <p align="center">
 <img src="./../source/hello_world/13_circuito_tinkercad.png" width=698 height=248></p></br></br>
